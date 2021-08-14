@@ -36,3 +36,8 @@ DEFAULT
 set remote origin and main as defaults,
 git push -u origin main
 next time onwards you can use git push
+=============
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+=========================================
