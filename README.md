@@ -31,4 +31,8 @@ Writing objects: 100% (3/3), 299 bytes | 29.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To github.com:gpkarnam/demo-repo2.git
  * [new branch]      main -> main
- 
+
+DEFAULT
+set remote origin and main as defaults,
+git push -u origin main
+next time onwards you can use git push
